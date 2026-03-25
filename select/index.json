@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "있잖아 Well… (ROCK VER.)",
+  "base_artist": "IU",
+  "createdAt": "2026-03-25T00:49:40.918244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "있잖아 (rock ver.)",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/01_있잖아_(rock_ver.)_IU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "있잖아 (rock version)",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/02_있잖아_(rock_version)_IU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "있잖아",
+      "artist": "폴킴",
+      "has_synced": true,
+      "path": "select/03_있잖아_폴킴.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "있잖아",
+      "artist": "아이유",
+      "has_synced": false,
+      "path": "select/04_있잖아_아이유.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "있잖아 (Rock Ver.)",
+      "artist": "아이유 (IU)",
+      "has_synced": false,
+      "path": "select/05_있잖아_(Rock_Ver.)_아이유_(IU).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "있잖아 (Rock Ver)",
+      "artist": "아이유 (IU)",
+      "has_synced": false,
+      "path": "select/06_있잖아_(Rock_Ver)_아이유_(IU).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "있잖아(Rock ver.)",
+      "artist": "IU(아이유)",
+      "has_synced": false,
+      "path": "select/07_있잖아(Rock_ver.)_IU(아이유).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "있잖아",
+      "artist": "폴킴",
+      "has_synced": true,
+      "path": "select/08_있잖아_폴킴.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "있잖아 (Rock Ver.)",
+      "artist": "Iu(아이유)",
+      "has_synced": false,
+      "path": "select/09_있잖아_(Rock_Ver.)_Iu(아이유).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "있잖아",
+      "artist": "We Are The Night",
+      "has_synced": false,
+      "path": "select/10_있잖아_We_Are_The_Night.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "있잖아 (Rock Ver.)",
+      "artist": "아이유(IU)",
+      "has_synced": false,
+      "path": "select/11_있잖아_(Rock_Ver.)_아이유(IU).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "있잖아 Well… (ROCK VER.)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/12_있잖아_Well..._(ROCK_VER.)_IU.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "있잖아 (ROCK VER.)",
+      "artist": "아이유",
+      "has_synced": false,
+      "path": "select/13_있잖아_(ROCK_VER.)_아이유.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "아이유 - 있잖아 (R)",
+      "artist": "아이유",
+      "has_synced": false,
+      "path": "select/14_아이유_-_있잖아_(R)_아이유.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "있잖아 널 사랑해",
+      "artist": "정준일",
+      "has_synced": false,
+      "path": "select/15_있잖아_널_사랑해_정준일.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "있잖아 궁금해 (With 예슬)",
+      "artist": "Standing Egg",
+      "has_synced": true,
+      "path": "select/16_있잖아_궁금해_(With_예슬)_Standing_Egg.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "내일이 있잖아 (Feat. Jayci yucca)",
+      "artist": "HAAN",
+      "has_synced": true,
+      "path": "select/17_내일이_있잖아_(Feat._Jayci_yucca)_HAAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "있잖아",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_있잖아_IU.txt"
+    }
+  ]
+}
